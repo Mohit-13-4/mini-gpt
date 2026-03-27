@@ -1,0 +1,70 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyx
+*.so
+
+# Checkpoints (large files - don't upload to GitHub)
+checkpoints/
+checkpoints_*/
+!checkpoints_wikitext_fixed/tokenizer.json
+!checkpoints_shakespeare/tokenizer.json
+checkpoints_medium/
+checkpoints_fixed/
+checkpoints_wikitext/
+
+# Runs and logs
+runs/
+*.log
+*.out
+
+# Gradio temp files
+.gradio/
+flagged/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files (keep the main ones)
+test_*.json
+!test_bpe_tokenizer.json
+!test_char_tokenizer.json
+
+# Large datasets
+data/*.txt
+!data/tiny_shakespeare.txt
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+!checkpoints_wikitext_fixed/tokenizer.json
+!checkpoints_shakespeare/tokenizer.json
+
+# Environment variables
+.env
+.env.local
