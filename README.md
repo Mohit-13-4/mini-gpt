@@ -1,3 +1,18 @@
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.7-red.svg)](https://pytorch.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![Stars](https://img.shields.io/github/stars/Mohit-13-4/mini-gpt.svg?style=social)](https://github.com/Mohit-13-4/mini-gpt/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Mohit-13-4/mini-gpt.svg)](https://github.com/Mohit-13-4/mini-gpt/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Mohit-13-4/mini-gpt.svg?style=social)](https://github.com/Mohit-13-4/mini-gpt/network)
+
+<div align="center">
+  <h1>🎭 GPT from Scratch: Complete Implementation</h1>
+  <p><em>Build your own GPT from scratch - BPE tokenizer, transformer architecture, and trained models</em></p>
+</div>
+
+
+
+
 # 🎭 GPT From Scratch — Full Stack LLM Implementation
 
 A **complete, from-scratch implementation of a GPT-style Large Language Model** built using PyTorch — covering **tokenization → architecture → training → inference → evaluation → deployment**.
