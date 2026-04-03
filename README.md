@@ -185,8 +185,8 @@ Includes a **custom evaluation suite**:
 
 # 📦 Project Structure
 
-```
 ---
+```
 mini-gpt/
 ├── tokenizer.py
 ├── transformer.py
@@ -198,9 +198,8 @@ mini-gpt/
 ├── checkpoints/
 ├── runs/
 
----
 ```
-
+---
 
 # 🖥️ Demo
 
